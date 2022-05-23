@@ -3,5 +3,7 @@ public class Primer_main {
 
         System.out.println("Hola ");
 
+        Clase_Counter.crea_mil();
+
     }
 }
