@@ -3,7 +3,5 @@ public class Primer_main {
 
         System.out.println("Hola mundo");
 
-        Counter.imprime_mil();
-
     }
 }
