@@ -3,6 +3,8 @@ public class Primer_main {
 
         System.out.println("Hola mundo");
 
+        System.out.println("Intento 2, vamos a la rama count");
+
         Counter.imprime_mil();
 
     }
